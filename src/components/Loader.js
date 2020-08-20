@@ -44,7 +44,7 @@ function Loader() {
             >
 
             </motion.div>
-            <div onClick={() => cycleAnimation()}>Cycle Loader</div>
+            <div style={{ cursor: 'pointer' }} onClick={() => cycleAnimation()}>Cycle Loader</div>
         </>
     );
 }
