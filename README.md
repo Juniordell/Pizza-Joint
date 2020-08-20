@@ -19,13 +19,12 @@ $ npm install
 
 #### Framer Motion is a amazing and one of the most popular animation library for React and is open source, the syntax is simple and declarative, you need to write less code to make a huge animation, i highly recommend!
 
-
-
-
-
-
 ## Technologies
 
 * React
 * Framer Motion
 * React Router
+
+## Site
+
+https://upbeat-poitras-4a3eaa.netlify.app/
